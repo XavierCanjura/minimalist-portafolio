@@ -1,0 +1,246 @@
+{
+    "basics": {
+      "name": "Xavier Canjura",
+      "label": "Full Stack Web Developer",
+      "image": "https://avatars.githubusercontent.com/u/36569554?v=4",
+      "email": "fernanxavi58@gmail.com",
+      "phone": "(503) 7614-7161",
+      "url": "https://johndoe.com",
+      "summary": "Desarrollador web desde el 2018. Actualmente continuo adquiriendo conocimientos y pongo en práctica mis concimientos en proyectos freelance para diferentes empresas. Vivo en San Salvador, El Salvador.",
+      "location": {
+        "address": "",
+        "postalCode": "503",
+        "city": "San Salvador",
+        "countryCode": "SV",
+        "region": "El Salvador"
+      },
+      "profiles": [
+        {
+          "network": "Linkedin",
+          "username": "Xavier Canjura",
+          "url": "https://www.linkedin.com/in/xaviercanjura"
+        },
+        {
+          "network": "GitHub",
+          "username": "Xavier Canjura",
+          "url": "https://github.com/XavierCanjura"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "Company",
+        "position": "Position",
+        "url": "https://company.com",
+        "startDate": "2013-01-01",
+        "endDate": "2014-01-01",
+        "summary": "Cupidatat et exercitation ullamco sunt incididunt qui excepteur eiusmod pariatur quis ullamco voluptate irure veniam. Commodo sit do proident dolor ut laborum. Ut minim voluptate nisi do veniam Lorem ullamco irure ut culpa magna et aliquip magna. Dolore anim sint irure cupidatat in in id eu est. Dolor eiusmod incididunt duis in esse eu irure.",
+        "highlights": [
+          "Started the company"
+        ]
+      },
+      {
+        "name": "Company",
+        "position": "Position",
+        "url": "https://company.com",
+        "startDate": "2013-01-01",
+        "endDate": "2014-01-01",
+        "summary": "Cupidatat et exercitation ullamco sunt incididunt qui excepteur eiusmod pariatur quis ullamco voluptate irure veniam. Commodo sit do proident dolor ut laborum. Ut minim voluptate nisi do veniam Lorem ullamco irure ut culpa magna et aliquip magna. Dolore anim sint irure cupidatat in in id eu est. Dolor eiusmod incididunt duis in esse eu irure.",
+        "highlights": [
+          "Started the company"
+        ]
+      },
+      {
+        "name": "Company",
+        "position": "Position",
+        "url": "https://company.com",
+        "startDate": "2013-01-01",
+        "endDate": "2014-01-01",
+        "summary": "Cupidatat et exercitation ullamco sunt incididunt qui excepteur eiusmod pariatur quis ullamco voluptate irure veniam. Commodo sit do proident dolor ut laborum. Ut minim voluptate nisi do veniam Lorem ullamco irure ut culpa magna et aliquip magna. Dolore anim sint irure cupidatat in in id eu est. Dolor eiusmod incididunt duis in esse eu irure.",
+        "highlights": [
+          "Started the company"
+        ]
+      },
+      {
+        "name": "Company",
+        "position": "Position",
+        "url": "https://company.com",
+        "startDate": "2013-01-01",
+        "endDate": "2014-01-01",
+        "summary": "Cupidatat et exercitation ullamco sunt incididunt qui excepteur eiusmod pariatur quis ullamco voluptate irure veniam. Commodo sit do proident dolor ut laborum. Ut minim voluptate nisi do veniam Lorem ullamco irure ut culpa magna et aliquip magna. Dolore anim sint irure cupidatat in in id eu est. Dolor eiusmod incididunt duis in esse eu irure.",
+        "highlights": [
+          "Started the company"
+        ]
+      }
+    ],
+    "volunteer": [{
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+    "education": [{
+      "institution": "University",
+      "url": "https://institution.com/",
+      "area": "Software Development",
+      "studyType": "Bachelor",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "Master",
+        "keywords": [
+          "Desarrollo Web", "Frontend"
+        ]
+      },
+      {
+        "name": "CSS",
+        "level": "Master",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Diseño Responsive"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "level": "Master",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+        ]
+      },
+      {
+        "name": "Tailwind",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+        ]
+      },
+      {
+        "name": "TypeScript",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+        ]
+      },
+      {
+        "name": "React",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        ]
+      },
+      {
+        "name": "Node",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+        ]
+      },
+      {
+        "name": "MySQL",
+        "level": "Avanzado",
+        "keywords": [
+          "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        ]
+      },
+      {
+        "name": "Git",
+        "level": "Avanzado",
+        "keywords": [
+          "Control de Versiones", "Colaboración", "Código Fuente"
+        ]
+      },
+      {
+        "name": "GitHub",
+        "level": "Avanzado",
+        "keywords": [
+          "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+        ]
+      },
+      {
+        "name": "Next.js",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+        ]
+      }
+    ],
+    "languages": [{
+      "language": "English",
+      "fluency": "Native speaker"
+    }],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+    "projects": [
+      {
+        "name": "Project",
+        "description": "Aliquip reprehenderit cillum elit magna nostrud enim esse aliqua occaecat sit commodo duis. Excepteur culpa elit occaecat enim sit esse. Tempor do laboris.",
+        "highlights": [
+          "Won award at AIHacks 2016"
+        ],
+        "url": "https://project.com/"
+      },
+      {
+        "name": "Project",
+        "description": "Aliquip reprehenderit cillum elit magna nostrud enim esse aliqua occaecat sit commodo duis. Excepteur culpa elit occaecat enim sit esse. Tempor do laboris eu consequat ullamco officia mollit id dolore. Cillum commodo officia incididunt nulla esse eiusmod elit adipisicing excepteur.",
+        "highlights": [
+          "Won award at AIHacks 2016"
+        ],
+        "url": "https://project.com/"
+      },
+      {
+        "name": "Project",
+        "description": "Aliquip reprehenderit cillum elit magna nostrud enim esse aliqua occaecat sit commodo duis. Excepteur culpa elit occaecat enim sit esse. Tempor do laboris eu consequat ullamco officia mollit id dolore. Cillum commodo officia incididunt nulla esse eiusmod elit adipisicing excepteur.",
+        "highlights": [
+          "Won award at AIHacks 2016"
+        ],
+        "url": "https://project.com/"
+      },
+      {
+        "name": "Project",
+        "description": "Aliquip reprehenderit cillum elit magna nostrud enim esse aliqua occaecat sit commodo duis. Excepteur culpa elit occaecat enim sit esse. Tempor do laboris eu consequat ullamco officia mollit id dolore. Cillum commodo officia incididunt nulla esse eiusmod elit adipisicing excepteur.",
+        "highlights": [
+          "Won award at AIHacks 2016"
+        ],
+        "url": "https://project.com/"
+      }
+    ]
+  }
